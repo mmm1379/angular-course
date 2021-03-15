@@ -5,7 +5,7 @@ lecture_video:
 
 We use the `Http` client library in Angular to make HTTP requests.
 
-We use the library by injecting it into classes and as such it needs to be configured via Anuglars DI framework.
+We use the library by injecting it into classes and as such it needs to be configured via Angulars DI framework.
 
 To setup all the necessary providers we just need to import the `HttpModule` and add it to the imports property of our `NgModule`.
 
